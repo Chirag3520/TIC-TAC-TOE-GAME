@@ -1,4 +1,4 @@
-THIS IS A TIC TAC TOE GAME
+TIC TAC TOE GAME
 
 #How the Game Works-
 
